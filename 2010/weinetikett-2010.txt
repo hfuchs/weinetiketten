@@ -1,0 +1,20 @@
+Weinetikett 2010
+===================
+
+Mit Inkscape erstellt.  Die äußere Form ist schlicht durch Pfadspielerei
+entstanden (8 symmetr. Punkte, die Eckpunkte um 30° gekippt).  Die
+Muster bestehen offenkundig aus Spiralen.  Der Schriftsatz in der
+zweiten Zeile ist mit "<Alt>-<" enger gesetzt.
+
+Die Boolschen  TODO
+
+Das Werkzeug "Objekt->Auschneidepfad" scheint in der Version 0.46 ein
+paar Probleme zu haben, zB:
+
+  - Nach der (erfolgreichen) Festlegung eines Ausschnitts, stellt der
+    Ausdruck das Erwartete dar; nach Skalierung des Auschnitts entsteht
+    auf dem Papier (oder pdf) ein anderes Bild als angezeigt.
+
+Das soll in der 0.47 behoben sein, die ist aber bleeding edge unter
+Debian - keine Lust auf die Hölle.  Die Lösung bestand
+
